@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Money Transfer | FBN Ghana",
+  title: "Money Transfer | First bank Ghana",
   description: "Transfer Money to any account in seconds",
   icons: {
     icon: "/images/logo-blue.png",
