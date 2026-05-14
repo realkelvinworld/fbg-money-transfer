@@ -45,7 +45,7 @@ export default function Home() {
                   className="size-4 text-white shrink-0"
                 />
                 <p className="text-white text-sm font-medium truncate">
-                  FBN Bank Head Office Annex
+                  FBG Bank Head Office Annex
                 </p>
               </div>
 
